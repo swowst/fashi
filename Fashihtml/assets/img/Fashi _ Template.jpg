@@ -1,0 +1,1135 @@
+<!DOCTYPE html>
+<!-- saved from url=(0052)https://preview.colorlib.com/theme/fashi/index.html# -->
+<html lang="zxx"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+
+<meta name="description" content="Fashi Template">
+<meta name="keywords" content="Fashi, unica, creative, html">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta http-equiv="X-UA-Compatible" content="ie=edge">
+<title>Fashi | Template</title>
+
+<link href="./Fashi _ Template_files/css" rel="stylesheet">
+
+<link rel="stylesheet" href="./Fashi _ Template_files/bootstrap.min.css+font-awesome.min.css+themify-icons.css+elegant-icons.css+owl.carousel.min.css+nice-select.css+jquery-ui.min.css+slicknav.min.css+style.css.pagespeed.cc.REY_uItUWZ.css" type="text/css">
+<script type="text/javascript" async="" src="./Fashi _ Template_files/analytics.js.download" nonce="fb987f3c-69c7-4d72-b27d-1bed3cf498e4"></script><script defer="" referrerpolicy="origin" src="./Fashi _ Template_files/s.js.download"></script><script nonce="fb987f3c-69c7-4d72-b27d-1bed3cf498e4">(function(w,d){!function(a,e,t,r){a.zarazData=a.zarazData||{},a.zarazData.executed=[],a.zaraz={deferred:[]},a.zaraz.q=[],a.zaraz._f=function(e){return function(){var t=Array.prototype.slice.call(arguments);a.zaraz.q.push({m:e,a:t})}};for(const e of["track","set","ecommerce","debug"])a.zaraz[e]=a.zaraz._f(e);a.addEventListener("DOMContentLoaded",(()=>{var t=e.getElementsByTagName(r)[0],z=e.createElement(r),n=e.getElementsByTagName("title")[0];for(n&&(a.zarazData.t=e.getElementsByTagName("title")[0].text),a.zarazData.x=Math.random(),a.zarazData.w=a.screen.width,a.zarazData.h=a.screen.height,a.zarazData.j=a.innerHeight,a.zarazData.e=a.innerWidth,a.zarazData.l=a.location.href,a.zarazData.r=e.referrer,a.zarazData.k=a.screen.colorDepth,a.zarazData.n=e.characterSet,a.zarazData.o=(new Date).getTimezoneOffset(),a.zarazData.q=[];a.zaraz.q.length;){const e=a.zaraz.q.shift();a.zarazData.q.push(e)}z.defer=!0;for(const e of[localStorage,sessionStorage])Object.keys(e).filter((a=>a.startsWith("_zaraz_"))).forEach((t=>{try{a.zarazData["z_"+t.slice(7)]=JSON.parse(e.getItem(t))}catch{a.zarazData["z_"+t.slice(7)]=e.getItem(t)}}));z.referrerPolicy="origin",z.src="/cdn-cgi/zaraz/s.js?z="+btoa(encodeURIComponent(JSON.stringify(a.zarazData))),t.parentNode.insertBefore(z,t)}))}(w,d,0,"script");})(window,document);</script></head>
+<body>
+
+<div id="preloder" style="display: none;">
+<div class="loader" style="display: none;"></div>
+</div>
+
+<header class="header-section">
+<div class="header-top">
+<div class="container">
+<div class="ht-left">
+<div class="mail-service">
+<i class=" fa fa-envelope"></i>
+hello.colorlib@gmail.com
+</div>
+<div class="phone-service">
+<i class=" fa fa-phone"></i>
++65 11.188.888
+</div>
+</div>
+<div class="ht-right">
+<a href="https://preview.colorlib.com/theme/fashi/index.html#" class="login-panel"><i class="fa fa-user"></i>Login</a>
+<div class="lan-selector">
+<div class="ddOutOfVision" id="countries_msddHolder" style="height: 0px; overflow: hidden; position: absolute;"><select class="language_drop" name="countries" id="countries" style="width:300px;" tabindex="-1">
+<option value="yt" data-image="img/flag-1.jpg" data-imagecss="flag yt" data-title="English">English</option>
+<option value="yu" data-image="img/flag-2.jpg" data-imagecss="flag yu" data-title="Bangladesh">German </option>
+</select></div><div class="dd ddcommon borderRadius" id="countries_msdd" tabindex="0" style="width: 300px;"><div class="ddTitle borderRadiusTp"><span class="divider"></span><span class="ddArrow arrowoff"></span><span class="ddTitleText " id="countries_title"><img src="./Fashi _ Template_files/flag-1.jpg" class="flag yt fnone"><span class="ddlabel">English</span><span class="description" style="display: none;"></span></span></div><input id="countries_titleText" type="text" autocomplete="off" class="text shadow borderRadius" style="display: none;"><div class="ddChild ddchild_ border shadow" id="countries_child" style="z-index: 1; position: absolute; visibility: visible; height: 51px; top: 24px; display: none;"><ul><li class="enabled _msddli_ selected" title="English"><img src="./Fashi _ Template_files/flag-1.jpg" class="flag yt fnone"><span class="ddlabel">English</span><div class="clear"></div></li><li class="enabled _msddli_" title="Bangladesh"><img src="./Fashi _ Template_files/flag-2.jpg" class="flag yu fnone"><span class="ddlabel">German</span><div class="clear"></div></li></ul></div></div>
+</div>
+<div class="top-social">
+<a href="https://preview.colorlib.com/theme/fashi/index.html#"><i class="ti-facebook"></i></a>
+<a href="https://preview.colorlib.com/theme/fashi/index.html#"><i class="ti-twitter-alt"></i></a>
+<a href="https://preview.colorlib.com/theme/fashi/index.html#"><i class="ti-linkedin"></i></a>
+<a href="https://preview.colorlib.com/theme/fashi/index.html#"><i class="ti-pinterest"></i></a>
+</div>
+</div>
+</div>
+</div>
+<div class="container">
+<div class="inner-header">
+<div class="row">
+<div class="col-lg-2 col-md-2">
+<div class="logo">
+<a href="https://preview.colorlib.com/theme/fashi/index.html">
+<script data-pagespeed-no-defer="">//<![CDATA[
+(function(){for(var g="function"==typeof Object.defineProperties?Object.defineProperty:function(b,c,a){if(a.get||a.set)throw new TypeError("ES3 does not support getters and setters.");b!=Array.prototype&&b!=Object.prototype&&(b[c]=a.value)},h="undefined"!=typeof window&&window===this?this:"undefined"!=typeof global&&null!=global?global:this,k=["String","prototype","repeat"],l=0;l<k.length-1;l++){var m=k[l];m in h||(h[m]={});h=h[m]}
+var n=k[k.length-1],p=h[n],q=p?p:function(b){var c;if(null==this)throw new TypeError("The 'this' value for String.prototype.repeat must not be null or undefined");c=this+"";if(0>b||1342177279<b)throw new RangeError("Invalid count value");b|=0;for(var a="";b;)if(b&1&&(a+=c),b>>>=1)c+=c;return a};q!=p&&null!=q&&g(h,n,{configurable:!0,writable:!0,value:q});var t=this;
+function u(b,c){var a=b.split("."),d=t;a[0]in d||!d.execScript||d.execScript("var "+a[0]);for(var e;a.length&&(e=a.shift());)a.length||void 0===c?d[e]?d=d[e]:d=d[e]={}:d[e]=c};function v(b){var c=b.length;if(0<c){for(var a=Array(c),d=0;d<c;d++)a[d]=b[d];return a}return[]};function w(b){var c=window;if(c.addEventListener)c.addEventListener("load",b,!1);else if(c.attachEvent)c.attachEvent("onload",b);else{var a=c.onload;c.onload=function(){b.call(this);a&&a.call(this)}}};var x;function y(b,c,a,d,e){this.h=b;this.j=c;this.l=a;this.f=e;this.g={height:window.innerHeight||document.documentElement.clientHeight||document.body.clientHeight,width:window.innerWidth||document.documentElement.clientWidth||document.body.clientWidth};this.i=d;this.b={};this.a=[];this.c={}}
+function z(b,c){var a,d,e=c.getAttribute("data-pagespeed-url-hash");if(a=e&&!(e in b.c))if(0>=c.offsetWidth&&0>=c.offsetHeight)a=!1;else{d=c.getBoundingClientRect();var f=document.body;a=d.top+("pageYOffset"in window?window.pageYOffset:(document.documentElement||f.parentNode||f).scrollTop);d=d.left+("pageXOffset"in window?window.pageXOffset:(document.documentElement||f.parentNode||f).scrollLeft);f=a.toString()+","+d;b.b.hasOwnProperty(f)?a=!1:(b.b[f]=!0,a=a<=b.g.height&&d<=b.g.width)}a&&(b.a.push(e),
+b.c[e]=!0)}y.prototype.checkImageForCriticality=function(b){b.getBoundingClientRect&&z(this,b)};u("pagespeed.CriticalImages.checkImageForCriticality",function(b){x.checkImageForCriticality(b)});u("pagespeed.CriticalImages.checkCriticalImages",function(){A(x)});
+function A(b){b.b={};for(var c=["IMG","INPUT"],a=[],d=0;d<c.length;++d)a=a.concat(v(document.getElementsByTagName(c[d])));if(a.length&&a[0].getBoundingClientRect){for(d=0;c=a[d];++d)z(b,c);a="oh="+b.l;b.f&&(a+="&n="+b.f);if(c=!!b.a.length)for(a+="&ci="+encodeURIComponent(b.a[0]),d=1;d<b.a.length;++d){var e=","+encodeURIComponent(b.a[d]);131072>=a.length+e.length&&(a+=e)}b.i&&(e="&rd="+encodeURIComponent(JSON.stringify(B())),131072>=a.length+e.length&&(a+=e),c=!0);C=a;if(c){d=b.h;b=b.j;var f;if(window.XMLHttpRequest)f=
+new XMLHttpRequest;else if(window.ActiveXObject)try{f=new ActiveXObject("Msxml2.XMLHTTP")}catch(r){try{f=new ActiveXObject("Microsoft.XMLHTTP")}catch(D){}}f&&(f.open("POST",d+(-1==d.indexOf("?")?"?":"&")+"url="+encodeURIComponent(b)),f.setRequestHeader("Content-Type","application/x-www-form-urlencoded"),f.send(a))}}}
+function B(){var b={},c;c=document.getElementsByTagName("IMG");if(!c.length)return{};var a=c[0];if(!("naturalWidth"in a&&"naturalHeight"in a))return{};for(var d=0;a=c[d];++d){var e=a.getAttribute("data-pagespeed-url-hash");e&&(!(e in b)&&0<a.width&&0<a.height&&0<a.naturalWidth&&0<a.naturalHeight||e in b&&a.width>=b[e].o&&a.height>=b[e].m)&&(b[e]={rw:a.width,rh:a.height,ow:a.naturalWidth,oh:a.naturalHeight})}return b}var C="";u("pagespeed.CriticalImages.getBeaconData",function(){return C});
+u("pagespeed.CriticalImages.Run",function(b,c,a,d,e,f){var r=new y(b,c,a,e,f);x=r;d&&w(function(){window.setTimeout(function(){A(r)},0)})});})();
+
+pagespeed.CriticalImages.Run('/mod_pagespeed_beacon','https://preview.colorlib.com/theme/fashi/index.html','-ilGEe-FWC',true,false,'LVtL23Meucg');
+//]]></script><img src="data:image/webp;base64,UklGRiIBAABXRUJQVlA4TBYBAAAvV4AFEI9AkG1Tmale/QoCgSSZ/R0mEwikOIsJJsi2me3sd4QnqI+dXRCQJElyImW2pBoadv7/3BKoVceI/k8AXplJUhCvJJkR3Xky/1cJnn3JhT/LXEjWgU6S3ZiSSBbZQ6OS7NPIJCl3Ce0aafTb7lXa8zErT6rGqDjBfEtww5EumIym4xzXhwh1nRjJG6pMTCns8OrEYshDisoAsJ3o0Nv00gEgqf6QpEShOFORVQZMowNAVe0OQZB6NZqDxdB99yRQn3Fcg1Ecpv0tMMQoAQBDimK76/Nlfi4oqqiNnkzoI5NMrxHFNjGydyQWWYE1keRrdiPagcFweQ3kghob78Hi1O6MHBG8CFsnWQc8YJWssux4DA==" alt="" data-pagespeed-url-hash="1652065695" onload="pagespeed.CriticalImages.checkImageForCriticality(this);">
+</a>
+</div>
+</div>
+<div class="col-lg-7 col-md-7">
+<div class="advanced-search">
+<button type="button" class="category-btn">All Categories</button>
+<div class="input-group">
+<input type="text" placeholder="What do you need?">
+<button type="button"><i class="ti-search"></i></button>
+</div>
+</div>
+</div>
+<div class="col-lg-3 text-right col-md-3">
+<ul class="nav-right">
+<li class="heart-icon">
+<a href="https://preview.colorlib.com/theme/fashi/index.html#">
+<i class="icon_heart_alt"></i>
+<span>1</span>
+</a>
+</li>
+<li class="cart-icon">
+<a href="https://preview.colorlib.com/theme/fashi/index.html#">
+<i class="icon_bag_alt"></i>
+<span>3</span>
+</a>
+<div class="cart-hover">
+<div class="select-items">
+<table>
+<tbody>
+<tr>
+<td class="si-pic"><img src="data:image/webp;base64,UklGRvABAABXRUJQVlA4IOQBAABwDACdASpGAEYAPm0ylkckIyIhqlQKWIANiWcA1WGLg72RTlG9GjOvoizGSSN+36xyU/QF8a+os7ZJl6KvZmgfSQR3wWzyvkGUg3tuYZWJRVVG69yP7mbdiW0zUo1ek4m4/ruMa8+jXfpPAwAA/vsNFaChzMEk1xhyOA+1fI7xPdgjri8iBhHMyY4ZV/4wFnSzpBDIm6yy+jLMsuhCcFexgVBv4AIoqE5gIOcD8A6hMsGruOzWGaQFFg47OqZS/AlsbLGS0Qtx3jWnANWHRF9cg4uIW+O4H4/dz+NejgEYbZwNZ7ClvsSqnEKiTJ5iL9IMtY72Ie5RoXnKiB3zL3ZEBi7JyPqE0ZfNLxwCKBxcNcRGvPHotGMLhdqhP7mfLftB5zV8Kajftr99adPh7Cdiznjnj22LIpTHXOLFCDSoEgEX+lVO06nJ9gSZuVRzXnkjSVLeVUk9BYWG7eLVUcCU90FSpvqIPp2eTxh8opmmGmraWzr39KAEomEGvOZ9ahfHYR5n0zKh+u9BFze2VfX9jrTjA6+sIAMNwYc3rSJjrFy+XHjvLFeU251btGRtxFZ6iU9aIndcMwM6l5xddY9Vk+N1OCgj9YpM8NmlzcBCwnfSEf4pXa8LrvK+YZRBweAamEAA" alt="" data-pagespeed-url-hash="697362414" onload="pagespeed.CriticalImages.checkImageForCriticality(this);"></td>
+<td class="si-text">
+<div class="product-selected">
+<p>$60.00 x 1</p>
+<h6>Kabino Bedside Table</h6>
+</div>
+</td>
+<td class="si-close">
+<i class="ti-close"></i>
+</td>
+</tr>
+<tr>
+<td class="si-pic"><img src="data:image/webp;base64,UklGRvoCAABXRUJQVlA4IO4CAADwDwCdASpGAEYAPm0ylEekIyIhqPSaqIANiUAPL0RW+XgJ/9jdAc7B6AN4p/Y72GP1g61HIo9pd64x62+s5egH1O1soy7olYtrms4m5OqZvtFnRDgQ42YjdeW2lK//Bwa0IGb4Qzr4JK/v4QQ8I82bQDDdg44JhemmweUMZX9IxvW6NHN+neIAAP77cJfuudPn0fnL2+D4z++Q5HQxog9JjomGB25aDxX94c9dm9UFpwO8zeL+6sX1uuE6AanashgDRWP+jIzBH/L7bGvuav8mhkJ7K2N3pclwXzcv/4yw5VCZ77U1muEDydjtjTz6v9JguxcYzOnMIt93X7rhMb5lzPy9B6mjo9zQCbEbnycly5z0Pc3Rqs61vGUSwpvOV5F89sfFl5PiiU0wRy7doiE+dJvVCt/jC09tPz8GwcQaZMUwSAzKyxpmZsutI1vLrApYyxM+Ko9LFvrhEE/lyin7OeMmK7nTGlHqQYujJuHT83gq//EZJu3F1E1v1KxmANB0zlejc2ZNQ1kY7nbwmGugbv7siU6dS+wUHTkyBP1PVa/g7oICmVxySRkr/j/8HrbIXfHTmsee1rhMqn8NP3g5R1sj97px2X2ArmhYxAemzHSjj4+ztFN9fKzA8wRV6xAG+xiTSTkyzIreX9h+BY6zGx6RJrz48B/ntbqW/F5avaSHuXoIdH85kJcbV4A9T4U/yWmueN9XARZ2OOz9AQ16TsZSNJPG/KMyOgmhIAWbIfabZwe8BwQrh8mtFRzyjORgDQ6H0tetZOnV8P65ELc8eBChpR1lsbwT2gfwUQGJVA4YNY3UMDOrnLUr6mysT0K2mcHwiik6bElrIPppkTGFOlU2GcUBWdOv+hV8lf2CQ+fbvarWZzsS5uC1nBYsjBsexYqMRQrQ5uwkxbmR7IDKCx/URHe+4FnCf14Hy93SIM4M9foR6lMsFwujSqNSVWIifStpfuJuMYpG5S//yz/BwxHz/ur/VLVm06x+AAA=" alt="" data-pagespeed-url-hash="991862335" onload="pagespeed.CriticalImages.checkImageForCriticality(this);"></td>
+<td class="si-text">
+<div class="product-selected">
+<p>$60.00 x 1</p>
+<h6>Kabino Bedside Table</h6>
+</div>
+</td>
+<td class="si-close">
+<i class="ti-close"></i>
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+<div class="select-total">
+<span>total:</span>
+<h5>$120.00</h5>
+</div>
+<div class="select-button">
+<a href="https://preview.colorlib.com/theme/fashi/index.html#" class="primary-btn view-card">VIEW CARD</a>
+<a href="https://preview.colorlib.com/theme/fashi/index.html#" class="primary-btn checkout-btn">CHECK OUT</a>
+</div>
+</div>
+</li>
+<li class="cart-price">$150.00</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+<div class="nav-item">
+<div class="container">
+<div class="nav-depart">
+<div class="depart-btn">
+<i class="ti-menu"></i>
+<span>All departments</span>
+<ul class="depart-hover">
+<li class="active"><a href="https://preview.colorlib.com/theme/fashi/index.html#">Women’s Clothing</a></li>
+<li><a href="https://preview.colorlib.com/theme/fashi/index.html#">Men’s Clothing</a></li>
+<li><a href="https://preview.colorlib.com/theme/fashi/index.html#">Underwear</a></li>
+<li><a href="https://preview.colorlib.com/theme/fashi/index.html#">Kid's Clothing</a></li>
+<li><a href="https://preview.colorlib.com/theme/fashi/index.html#">Brand Fashion</a></li>
+<li><a href="https://preview.colorlib.com/theme/fashi/index.html#">Accessories/Shoes</a></li>
+<li><a href="https://preview.colorlib.com/theme/fashi/index.html#">Luxury Brands</a></li>
+<li><a href="https://preview.colorlib.com/theme/fashi/index.html#">Brand Outdoor Apparel</a></li>
+</ul>
+</div>
+</div>
+<nav class="nav-menu mobile-menu">
+<ul>
+<li class="active"><a href="https://preview.colorlib.com/theme/fashi/index.html">Home</a></li>
+<li><a href="https://preview.colorlib.com/theme/fashi/shop.html">Shop</a></li>
+<li><a href="https://preview.colorlib.com/theme/fashi/index.html#">Collection</a>
+<ul class="dropdown">
+<li><a href="https://preview.colorlib.com/theme/fashi/index.html#">Men's</a></li>
+<li><a href="https://preview.colorlib.com/theme/fashi/index.html#">Women's</a></li>
+<li><a href="https://preview.colorlib.com/theme/fashi/index.html#">Kid's</a></li>
+</ul>
+</li>
+<li><a href="https://preview.colorlib.com/theme/fashi/blog.html">Blog</a></li>
+<li><a href="https://preview.colorlib.com/theme/fashi/contact.html">Contact</a></li>
+<li><a href="https://preview.colorlib.com/theme/fashi/index.html#">Pages</a>
+<ul class="dropdown">
+<li><a href="https://preview.colorlib.com/theme/fashi/blog-details.html">Blog Details</a></li>
+<li><a href="https://preview.colorlib.com/theme/fashi/shopping-cart.html">Shopping Cart</a></li>
+<li><a href="https://preview.colorlib.com/theme/fashi/check-out.html">Checkout</a></li>
+<li><a href="https://preview.colorlib.com/theme/fashi/faq.html">Faq</a></li>
+<li><a href="https://preview.colorlib.com/theme/fashi/register.html">Register</a></li>
+<li><a href="https://preview.colorlib.com/theme/fashi/login.html">Login</a></li>
+</ul>
+</li>
+</ul>
+</nav>
+<div id="mobile-menu-wrap"><div class="slicknav_menu"><a href="https://preview.colorlib.com/theme/fashi/index.html#" aria-haspopup="true" role="button" tabindex="0" class="slicknav_btn slicknav_collapsed" style="outline: none;"><span class="slicknav_menutxt">MENU</span><span class="slicknav_icon"><span class="slicknav_icon-bar"></span><span class="slicknav_icon-bar"></span><span class="slicknav_icon-bar"></span></span></a><nav class="slicknav_nav slicknav_hidden" aria-hidden="true" role="menu" style="display: none;">
+<ul>
+<li class="active"><a href="https://preview.colorlib.com/theme/fashi/index.html" role="menuitem">Home</a></li>
+<li><a href="https://preview.colorlib.com/theme/fashi/shop.html" role="menuitem">Shop</a></li>
+<li class="slicknav_collapsed slicknav_parent"><a href="https://preview.colorlib.com/theme/fashi/index.html#" role="menuitem" aria-haspopup="true" tabindex="-1" class="slicknav_item slicknav_row" style="outline: none;"><a href="https://preview.colorlib.com/theme/fashi/index.html#">Collection</a>
+<span class="slicknav_arrow">►</span></a><ul class="dropdown slicknav_hidden" role="menu" aria-hidden="true" style="display: none;">
+<li><a href="https://preview.colorlib.com/theme/fashi/index.html#" role="menuitem" tabindex="-1">Men's</a></li>
+<li><a href="https://preview.colorlib.com/theme/fashi/index.html#" role="menuitem" tabindex="-1">Women's</a></li>
+<li><a href="https://preview.colorlib.com/theme/fashi/index.html#" role="menuitem" tabindex="-1">Kid's</a></li>
+</ul>
+</li>
+<li><a href="https://preview.colorlib.com/theme/fashi/blog.html" role="menuitem">Blog</a></li>
+<li><a href="https://preview.colorlib.com/theme/fashi/contact.html" role="menuitem">Contact</a></li>
+<li class="slicknav_collapsed slicknav_parent"><a href="https://preview.colorlib.com/theme/fashi/index.html#" role="menuitem" aria-haspopup="true" tabindex="-1" class="slicknav_item slicknav_row" style="outline: none;"><a href="https://preview.colorlib.com/theme/fashi/index.html#">Pages</a>
+<span class="slicknav_arrow">►</span></a><ul class="dropdown slicknav_hidden" role="menu" aria-hidden="true" style="display: none;">
+<li><a href="https://preview.colorlib.com/theme/fashi/blog-details.html" role="menuitem" tabindex="-1">Blog Details</a></li>
+<li><a href="https://preview.colorlib.com/theme/fashi/shopping-cart.html" role="menuitem" tabindex="-1">Shopping Cart</a></li>
+<li><a href="https://preview.colorlib.com/theme/fashi/check-out.html" role="menuitem" tabindex="-1">Checkout</a></li>
+<li><a href="https://preview.colorlib.com/theme/fashi/faq.html" role="menuitem" tabindex="-1">Faq</a></li>
+<li><a href="https://preview.colorlib.com/theme/fashi/register.html" role="menuitem" tabindex="-1">Register</a></li>
+<li><a href="https://preview.colorlib.com/theme/fashi/login.html" role="menuitem" tabindex="-1">Login</a></li>
+</ul>
+</li>
+</ul>
+</nav></div></div>
+</div>
+</div>
+</header>
+
+
+<section class="hero-section">
+<div class="hero-items owl-carousel owl-loaded owl-drag">
+
+
+<div class="owl-stage-outer"><div class="owl-stage" style="transform: translate3d(-4047px, 0px, 0px); transition: all 0s ease 0s; width: 8094px;"><div class="owl-item animated owl-animated-in fadeIn cloned" style="width: 1349px;"><div class="single-hero-items set-bg" data-setbg="img/hero-1.jpg" style="background-image: url(&quot;img/hero-1.jpg&quot;);">
+<div class="container">
+<div class="row">
+<div class="col-lg-5">
+<span>Bag,kids</span>
+<h1>Black friday</h1>
+<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor
+incididunt ut labore et dolore</p>
+<a href="https://preview.colorlib.com/theme/fashi/index.html#" class="primary-btn">Shop Now</a>
+</div>
+</div>
+<div class="off-card">
+<h2>Sale <span>50%</span></h2>
+</div>
+</div>
+</div></div><div class="owl-item animated owl-animated-in fadeIn cloned" style="width: 1349px;"><div class="single-hero-items set-bg" data-setbg="img/hero-2.jpg" style="background-image: url(&quot;img/hero-2.jpg&quot;);">
+<div class="container">
+<div class="row">
+<div class="col-lg-5">
+<span>Bag,kids</span>
+<h1>Black friday</h1>
+<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor
+incididunt ut labore et dolore</p>
+<a href="https://preview.colorlib.com/theme/fashi/index.html#" class="primary-btn">Shop Now</a>
+</div>
+</div>
+<div class="off-card">
+<h2>Sale <span>50%</span></h2>
+</div>
+</div>
+</div></div><div class="owl-item" style="width: 1349px;"><div class="single-hero-items set-bg" data-setbg="img/hero-1.jpg" style="background-image: url(&quot;img/hero-1.jpg&quot;);">
+<div class="container">
+<div class="row">
+<div class="col-lg-5">
+<span>Bag,kids</span>
+<h1>Black friday</h1>
+<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor
+incididunt ut labore et dolore</p>
+<a href="https://preview.colorlib.com/theme/fashi/index.html#" class="primary-btn">Shop Now</a>
+</div>
+</div>
+<div class="off-card">
+<h2>Sale <span>50%</span></h2>
+</div>
+</div>
+</div></div><div class="owl-item animated owl-animated-in fadeIn active" style="width: 1349px;"><div class="single-hero-items set-bg" data-setbg="img/hero-2.jpg" style="background-image: url(&quot;img/hero-2.jpg&quot;);">
+<div class="container">
+<div class="row">
+<div class="col-lg-5">
+<span>Bag,kids</span>
+<h1>Black friday</h1>
+<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor
+incididunt ut labore et dolore</p>
+<a href="https://preview.colorlib.com/theme/fashi/index.html#" class="primary-btn">Shop Now</a>
+</div>
+</div>
+<div class="off-card">
+<h2>Sale <span>50%</span></h2>
+</div>
+</div>
+</div></div><div class="owl-item animated owl-animated-in fadeIn cloned" style="width: 1349px;"><div class="single-hero-items set-bg" data-setbg="img/hero-1.jpg" style="background-image: url(&quot;img/hero-1.jpg&quot;);">
+<div class="container">
+<div class="row">
+<div class="col-lg-5">
+<span>Bag,kids</span>
+<h1>Black friday</h1>
+<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor
+incididunt ut labore et dolore</p>
+<a href="https://preview.colorlib.com/theme/fashi/index.html#" class="primary-btn">Shop Now</a>
+</div>
+</div>
+<div class="off-card">
+<h2>Sale <span>50%</span></h2>
+</div>
+</div>
+</div></div><div class="owl-item animated owl-animated-in fadeIn cloned" style="width: 1349px;"><div class="single-hero-items set-bg" data-setbg="img/hero-2.jpg" style="background-image: url(&quot;img/hero-2.jpg&quot;);">
+<div class="container">
+<div class="row">
+<div class="col-lg-5">
+<span>Bag,kids</span>
+<h1>Black friday</h1>
+<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor
+incididunt ut labore et dolore</p>
+<a href="https://preview.colorlib.com/theme/fashi/index.html#" class="primary-btn">Shop Now</a>
+</div>
+</div>
+<div class="off-card">
+<h2>Sale <span>50%</span></h2>
+</div>
+</div>
+</div></div></div></div><div class="owl-nav"><button type="button" role="presentation" class="owl-prev"><i class="ti-angle-left"></i></button><button type="button" role="presentation" class="owl-next"><i class="ti-angle-right"></i></button></div><div class="owl-dots disabled"></div></div>
+</section>
+
+
+<div class="banner-section spad">
+<div class="container-fluid">
+<div class="row">
+<div class="col-lg-4">
+<div class="single-banner">
+<img src="./Fashi _ Template_files/xbanner-1.jpg.pagespeed.ic.WtoTbL-e6z.webp" alt="" data-pagespeed-url-hash="1662466408" onload="pagespeed.CriticalImages.checkImageForCriticality(this);">
+<div class="inner-text">
+<h4>Men’s</h4>
+</div>
+</div>
+</div>
+<div class="col-lg-4">
+<div class="single-banner">
+<img src="./Fashi _ Template_files/xbanner-2.jpg.pagespeed.ic.N15HuVVX4r.webp" alt="" data-pagespeed-url-hash="1956966329" onload="pagespeed.CriticalImages.checkImageForCriticality(this);">
+<div class="inner-text">
+<h4>Women’s</h4>
+</div>
+</div>
+</div>
+<div class="col-lg-4">
+<div class="single-banner">
+<img src="./Fashi _ Template_files/xbanner-3.jpg.pagespeed.ic.BQA2S7WT5H.webp" alt="" data-pagespeed-url-hash="2251466250" onload="pagespeed.CriticalImages.checkImageForCriticality(this);">
+<div class="inner-text">
+<h4>Kid’s</h4>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+
+
+<section class="women-banner spad">
+<div class="container-fluid">
+<div class="row">
+<div class="col-lg-3">
+<div class="product-large set-bg" data-setbg="img/products/women-large.jpg" style="background-image: url(&quot;img/products/women-large.jpg&quot;);">
+<h2>Women’s</h2>
+<a href="https://preview.colorlib.com/theme/fashi/index.html#">Discover More</a>
+</div>
+</div>
+<div class="col-lg-8 offset-lg-1">
+<div class="filter-control">
+<ul>
+<li class="active">Clothings</li>
+<li>HandBag</li>
+<li>Shoes</li>
+<li>Accessories</li>
+</ul>
+</div>
+<div class="product-slider owl-carousel owl-loaded owl-drag">
+
+
+
+
+<div class="owl-stage-outer"><div class="owl-stage" style="transform: translate3d(-807px, 0px, 0px); transition: all 1.2s ease 0s; width: 2693px;"><div class="owl-item cloned" style="width: 244.219px; margin-right: 25px;"><div class="product-item">
+<div class="pi-pic">
+<img src="./Fashi _ Template_files/xwomen-2.jpg.pagespeed.ic.9lv2o7iXWr.webp" alt="" data-pagespeed-url-hash="1245276176" onload="pagespeed.CriticalImages.checkImageForCriticality(this);">
+<div class="icon">
+<i class="icon_heart_alt"></i>
+</div>
+<ul>
+<li class="w-icon active"><a href="https://preview.colorlib.com/theme/fashi/index.html#"><i class="icon_bag_alt"></i></a></li>
+<li class="quick-view"><a href="https://preview.colorlib.com/theme/fashi/index.html#">+ Quick View</a></li>
+<li class="w-icon"><a href="https://preview.colorlib.com/theme/fashi/index.html#"><i class="fa fa-random"></i></a></li>
+</ul>
+</div>
+<div class="pi-text">
+<div class="catagory-name">Shoes</div>
+<a href="https://preview.colorlib.com/theme/fashi/index.html#">
+<h5>Guangzhou sweater</h5>
+</a>
+<div class="product-price">
+$13.00
+</div>
+</div>
+</div></div><div class="owl-item cloned" style="width: 244.219px; margin-right: 25px;"><div class="product-item">
+<div class="pi-pic">
+<img src="./Fashi _ Template_files/xwomen-3.jpg.pagespeed.ic.LSRJ8hNI2f.webp" alt="" data-pagespeed-url-hash="1539776097" onload="pagespeed.CriticalImages.checkImageForCriticality(this);">
+<div class="icon">
+<i class="icon_heart_alt"></i>
+</div>
+<ul>
+<li class="w-icon active"><a href="https://preview.colorlib.com/theme/fashi/index.html#"><i class="icon_bag_alt"></i></a></li>
+<li class="quick-view"><a href="https://preview.colorlib.com/theme/fashi/index.html#">+ Quick View</a></li>
+<li class="w-icon"><a href="https://preview.colorlib.com/theme/fashi/index.html#"><i class="fa fa-random"></i></a></li>
+</ul>
+</div>
+<div class="pi-text">
+<div class="catagory-name">Towel</div>
+<a href="https://preview.colorlib.com/theme/fashi/index.html#">
+<h5>Pure Pineapple</h5>
+</a>
+<div class="product-price">
+$34.00
+</div>
+</div>
+</div></div><div class="owl-item cloned" style="width: 244.219px; margin-right: 25px;"><div class="product-item">
+<div class="pi-pic">
+<img src="./Fashi _ Template_files/xwomen-4.jpg.pagespeed.ic.PeeWeuIlTs.webp" alt="" data-pagespeed-url-hash="1834276018" onload="pagespeed.CriticalImages.checkImageForCriticality(this);">
+<div class="icon">
+<i class="icon_heart_alt"></i>
+</div>
+<ul>
+<li class="w-icon active"><a href="https://preview.colorlib.com/theme/fashi/index.html#"><i class="icon_bag_alt"></i></a></li>
+<li class="quick-view"><a href="https://preview.colorlib.com/theme/fashi/index.html#">+ Quick View</a></li>
+<li class="w-icon"><a href="https://preview.colorlib.com/theme/fashi/index.html#"><i class="fa fa-random"></i></a></li>
+</ul>
+</div>
+<div class="pi-text">
+<div class="catagory-name">Towel</div>
+<a href="https://preview.colorlib.com/theme/fashi/index.html#">
+<h5>Converse Shoes</h5>
+</a>
+<div class="product-price">
+$34.00
+</div>
+</div>
+</div></div><div class="owl-item active" style="width: 244.219px; margin-right: 25px;"><div class="product-item">
+<div class="pi-pic">
+<img src="./Fashi _ Template_files/xwomen-1.jpg.pagespeed.ic.udWXoHOXDn.webp" alt="" data-pagespeed-url-hash="950776255" onload="pagespeed.CriticalImages.checkImageForCriticality(this);">
+<div class="sale">Sale</div>
+<div class="icon">
+<i class="icon_heart_alt"></i>
+</div>
+<ul>
+<li class="w-icon active"><a href="https://preview.colorlib.com/theme/fashi/index.html#"><i class="icon_bag_alt"></i></a></li>
+<li class="quick-view"><a href="https://preview.colorlib.com/theme/fashi/index.html#">+ Quick View</a></li>
+<li class="w-icon"><a href="https://preview.colorlib.com/theme/fashi/index.html#"><i class="fa fa-random"></i></a></li>
+</ul>
+</div>
+<div class="pi-text">
+<div class="catagory-name">Coat</div>
+<a href="https://preview.colorlib.com/theme/fashi/index.html#">
+<h5>Pure Pineapple</h5>
+</a>
+<div class="product-price">
+$14.00
+<span>$35.00</span>
+</div>
+</div>
+</div></div><div class="owl-item active" style="width: 244.219px; margin-right: 25px;"><div class="product-item">
+<div class="pi-pic">
+<img src="./Fashi _ Template_files/xwomen-2.jpg.pagespeed.ic.9lv2o7iXWr.webp" alt="" data-pagespeed-url-hash="1245276176" onload="pagespeed.CriticalImages.checkImageForCriticality(this);">
+<div class="icon">
+<i class="icon_heart_alt"></i>
+</div>
+<ul>
+<li class="w-icon active"><a href="https://preview.colorlib.com/theme/fashi/index.html#"><i class="icon_bag_alt"></i></a></li>
+<li class="quick-view"><a href="https://preview.colorlib.com/theme/fashi/index.html#">+ Quick View</a></li>
+<li class="w-icon"><a href="https://preview.colorlib.com/theme/fashi/index.html#"><i class="fa fa-random"></i></a></li>
+</ul>
+</div>
+<div class="pi-text">
+<div class="catagory-name">Shoes</div>
+<a href="https://preview.colorlib.com/theme/fashi/index.html#">
+<h5>Guangzhou sweater</h5>
+</a>
+<div class="product-price">
+$13.00
+</div>
+</div>
+</div></div><div class="owl-item active" style="width: 244.219px; margin-right: 25px;"><div class="product-item">
+<div class="pi-pic">
+<img src="./Fashi _ Template_files/xwomen-3.jpg.pagespeed.ic.LSRJ8hNI2f.webp" alt="" data-pagespeed-url-hash="1539776097" onload="pagespeed.CriticalImages.checkImageForCriticality(this);">
+<div class="icon">
+<i class="icon_heart_alt"></i>
+</div>
+<ul>
+<li class="w-icon active"><a href="https://preview.colorlib.com/theme/fashi/index.html#"><i class="icon_bag_alt"></i></a></li>
+<li class="quick-view"><a href="https://preview.colorlib.com/theme/fashi/index.html#">+ Quick View</a></li>
+<li class="w-icon"><a href="https://preview.colorlib.com/theme/fashi/index.html#"><i class="fa fa-random"></i></a></li>
+</ul>
+</div>
+<div class="pi-text">
+<div class="catagory-name">Towel</div>
+<a href="https://preview.colorlib.com/theme/fashi/index.html#">
+<h5>Pure Pineapple</h5>
+</a>
+<div class="product-price">
+$34.00
+</div>
+</div>
+</div></div><div class="owl-item" style="width: 244.219px; margin-right: 25px;"><div class="product-item">
+<div class="pi-pic">
+<img src="./Fashi _ Template_files/xwomen-4.jpg.pagespeed.ic.PeeWeuIlTs.webp" alt="" data-pagespeed-url-hash="1834276018" onload="pagespeed.CriticalImages.checkImageForCriticality(this);">
+<div class="icon">
+<i class="icon_heart_alt"></i>
+</div>
+<ul>
+<li class="w-icon active"><a href="https://preview.colorlib.com/theme/fashi/index.html#"><i class="icon_bag_alt"></i></a></li>
+<li class="quick-view"><a href="https://preview.colorlib.com/theme/fashi/index.html#">+ Quick View</a></li>
+<li class="w-icon"><a href="https://preview.colorlib.com/theme/fashi/index.html#"><i class="fa fa-random"></i></a></li>
+</ul>
+</div>
+<div class="pi-text">
+<div class="catagory-name">Towel</div>
+<a href="https://preview.colorlib.com/theme/fashi/index.html#">
+<h5>Converse Shoes</h5>
+</a>
+<div class="product-price">
+$34.00
+</div>
+</div>
+</div></div><div class="owl-item cloned" style="width: 244.219px; margin-right: 25px;"><div class="product-item">
+<div class="pi-pic">
+<img src="./Fashi _ Template_files/xwomen-1.jpg.pagespeed.ic.udWXoHOXDn.webp" alt="" data-pagespeed-url-hash="950776255" onload="pagespeed.CriticalImages.checkImageForCriticality(this);">
+<div class="sale">Sale</div>
+<div class="icon">
+<i class="icon_heart_alt"></i>
+</div>
+<ul>
+<li class="w-icon active"><a href="https://preview.colorlib.com/theme/fashi/index.html#"><i class="icon_bag_alt"></i></a></li>
+<li class="quick-view"><a href="https://preview.colorlib.com/theme/fashi/index.html#">+ Quick View</a></li>
+<li class="w-icon"><a href="https://preview.colorlib.com/theme/fashi/index.html#"><i class="fa fa-random"></i></a></li>
+</ul>
+</div>
+<div class="pi-text">
+<div class="catagory-name">Coat</div>
+<a href="https://preview.colorlib.com/theme/fashi/index.html#">
+<h5>Pure Pineapple</h5>
+</a>
+<div class="product-price">
+$14.00
+<span>$35.00</span>
+</div>
+</div>
+</div></div><div class="owl-item cloned" style="width: 244.219px; margin-right: 25px;"><div class="product-item">
+<div class="pi-pic">
+<img src="./Fashi _ Template_files/xwomen-2.jpg.pagespeed.ic.9lv2o7iXWr.webp" alt="" data-pagespeed-url-hash="1245276176" onload="pagespeed.CriticalImages.checkImageForCriticality(this);">
+<div class="icon">
+<i class="icon_heart_alt"></i>
+</div>
+<ul>
+<li class="w-icon active"><a href="https://preview.colorlib.com/theme/fashi/index.html#"><i class="icon_bag_alt"></i></a></li>
+<li class="quick-view"><a href="https://preview.colorlib.com/theme/fashi/index.html#">+ Quick View</a></li>
+<li class="w-icon"><a href="https://preview.colorlib.com/theme/fashi/index.html#"><i class="fa fa-random"></i></a></li>
+</ul>
+</div>
+<div class="pi-text">
+<div class="catagory-name">Shoes</div>
+<a href="https://preview.colorlib.com/theme/fashi/index.html#">
+<h5>Guangzhou sweater</h5>
+</a>
+<div class="product-price">
+$13.00
+</div>
+</div>
+</div></div><div class="owl-item cloned" style="width: 244.219px; margin-right: 25px;"><div class="product-item">
+<div class="pi-pic">
+<img src="./Fashi _ Template_files/xwomen-3.jpg.pagespeed.ic.LSRJ8hNI2f.webp" alt="" data-pagespeed-url-hash="1539776097" onload="pagespeed.CriticalImages.checkImageForCriticality(this);">
+<div class="icon">
+<i class="icon_heart_alt"></i>
+</div>
+<ul>
+<li class="w-icon active"><a href="https://preview.colorlib.com/theme/fashi/index.html#"><i class="icon_bag_alt"></i></a></li>
+<li class="quick-view"><a href="https://preview.colorlib.com/theme/fashi/index.html#">+ Quick View</a></li>
+<li class="w-icon"><a href="https://preview.colorlib.com/theme/fashi/index.html#"><i class="fa fa-random"></i></a></li>
+</ul>
+</div>
+<div class="pi-text">
+<div class="catagory-name">Towel</div>
+<a href="https://preview.colorlib.com/theme/fashi/index.html#">
+<h5>Pure Pineapple</h5>
+</a>
+<div class="product-price">
+$34.00
+</div>
+</div>
+</div></div></div></div><div class="owl-nav"><button type="button" role="presentation" class="owl-prev"><i class="ti-angle-left"></i></button><button type="button" role="presentation" class="owl-next"><i class="ti-angle-right"></i></button></div><div class="owl-dots"><button role="button" class="owl-dot active"><span></span></button><button role="button" class="owl-dot"><span></span></button></div></div>
+</div>
+</div>
+</div>
+</section>
+
+
+<section class="deal-of-week set-bg spad" data-setbg="img/time-bg.jpg" style="background-image: url(&quot;img/time-bg.jpg&quot;);">
+<div class="container">
+<div class="col-lg-6 text-center">
+<div class="section-title">
+<h2>Deal Of The Week</h2>
+<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed<br> do ipsum dolor sit amet,
+consectetur adipisicing elit </p>
+<div class="product-price">
+$35.00
+<span>/ HanBag</span>
+</div>
+</div>
+<div class="countdown-timer" id="countdown"><div class="cd-item"><span>30</span> <p>Days</p> </div><div class="cd-item"><span>02</span> <p>Hrs</p> </div><div class="cd-item"><span>28</span> <p>Mins</p> </div><div class="cd-item"><span>18</span> <p>Secs</p> </div></div>
+<a href="https://preview.colorlib.com/theme/fashi/index.html#" class="primary-btn">Shop Now</a>
+</div>
+</div>
+</section>
+
+
+<section class="man-banner spad">
+<div class="container-fluid">
+<div class="row">
+<div class="col-lg-8">
+<div class="filter-control">
+<ul>
+<li class="active">Clothings</li>
+<li>HandBag</li>
+<li>Shoes</li>
+<li>Accessories</li>
+</ul>
+</div>
+<div class="product-slider owl-carousel owl-loaded owl-drag">
+
+
+
+
+<div class="owl-stage-outer"><div class="owl-stage" style="transform: translate3d(-807px, 0px, 0px); transition: all 1.2s ease 0s; width: 2693px;"><div class="owl-item cloned" style="width: 244.219px; margin-right: 25px;"><div class="product-item">
+<div class="pi-pic">
+<img src="./Fashi _ Template_files/xman-2.jpg.pagespeed.ic.MljB6PGycq.webp" alt="" data-pagespeed-url-hash="1942426872" onload="pagespeed.CriticalImages.checkImageForCriticality(this);">
+<div class="icon">
+<i class="icon_heart_alt"></i>
+</div>
+<ul>
+<li class="w-icon active"><a href="https://preview.colorlib.com/theme/fashi/index.html#"><i class="icon_bag_alt"></i></a></li>
+<li class="quick-view"><a href="https://preview.colorlib.com/theme/fashi/index.html#">+ Quick View</a></li>
+<li class="w-icon"><a href="https://preview.colorlib.com/theme/fashi/index.html#"><i class="fa fa-random"></i></a></li>
+</ul>
+</div>
+<div class="pi-text">
+<div class="catagory-name">Shoes</div>
+<a href="https://preview.colorlib.com/theme/fashi/index.html#">
+<h5>Guangzhou sweater</h5>
+</a>
+<div class="product-price">
+$13.00
+</div>
+</div>
+</div></div><div class="owl-item cloned" style="width: 244.219px; margin-right: 25px;"><div class="product-item">
+<div class="pi-pic">
+<img src="./Fashi _ Template_files/xman-3.jpg.pagespeed.ic.CK7sqeQEq-.webp" alt="" data-pagespeed-url-hash="2236926793" onload="pagespeed.CriticalImages.checkImageForCriticality(this);">
+<div class="icon">
+<i class="icon_heart_alt"></i>
+</div>
+<ul>
+<li class="w-icon active"><a href="https://preview.colorlib.com/theme/fashi/index.html#"><i class="icon_bag_alt"></i></a></li>
+<li class="quick-view"><a href="https://preview.colorlib.com/theme/fashi/index.html#">+ Quick View</a></li>
+<li class="w-icon"><a href="https://preview.colorlib.com/theme/fashi/index.html#"><i class="fa fa-random"></i></a></li>
+</ul>
+</div>
+<div class="pi-text">
+<div class="catagory-name">Towel</div>
+<a href="https://preview.colorlib.com/theme/fashi/index.html#">
+<h5>Pure Pineapple</h5>
+</a>
+<div class="product-price">
+$34.00
+</div>
+</div>
+</div></div><div class="owl-item cloned" style="width: 244.219px; margin-right: 25px;"><div class="product-item">
+<div class="pi-pic">
+<img src="./Fashi _ Template_files/xman-4.jpg.pagespeed.ic.bY7ZLLeiAg.webp" alt="" data-pagespeed-url-hash="2531426714" onload="pagespeed.CriticalImages.checkImageForCriticality(this);">
+<div class="icon">
+<i class="icon_heart_alt"></i>
+</div>
+<ul>
+<li class="w-icon active"><a href="https://preview.colorlib.com/theme/fashi/index.html#"><i class="icon_bag_alt"></i></a></li>
+<li class="quick-view"><a href="https://preview.colorlib.com/theme/fashi/index.html#">+ Quick View</a></li>
+<li class="w-icon"><a href="https://preview.colorlib.com/theme/fashi/index.html#"><i class="fa fa-random"></i></a></li>
+</ul>
+</div>
+<div class="pi-text">
+<div class="catagory-name">Towel</div>
+<a href="https://preview.colorlib.com/theme/fashi/index.html#">
+<h5>Converse Shoes</h5>
+</a>
+<div class="product-price">
+$34.00
+</div>
+</div>
+</div></div><div class="owl-item active" style="width: 244.219px; margin-right: 25px;"><div class="product-item">
+<div class="pi-pic">
+<img src="./Fashi _ Template_files/xman-1.jpg.pagespeed.ic.DPWA1LC_uk.webp" alt="" data-pagespeed-url-hash="1647926951" onload="pagespeed.CriticalImages.checkImageForCriticality(this);">
+<div class="sale">Sale</div>
+<div class="icon">
+<i class="icon_heart_alt"></i>
+</div>
+<ul>
+<li class="w-icon active"><a href="https://preview.colorlib.com/theme/fashi/index.html#"><i class="icon_bag_alt"></i></a></li>
+<li class="quick-view"><a href="https://preview.colorlib.com/theme/fashi/index.html#">+ Quick View</a></li>
+<li class="w-icon"><a href="https://preview.colorlib.com/theme/fashi/index.html#"><i class="fa fa-random"></i></a></li>
+</ul>
+</div>
+<div class="pi-text">
+<div class="catagory-name">Coat</div>
+<a href="https://preview.colorlib.com/theme/fashi/index.html#">
+<h5>Pure Pineapple</h5>
+</a>
+<div class="product-price">
+$14.00
+<span>$35.00</span>
+</div>
+</div>
+</div></div><div class="owl-item active" style="width: 244.219px; margin-right: 25px;"><div class="product-item">
+<div class="pi-pic">
+<img src="./Fashi _ Template_files/xman-2.jpg.pagespeed.ic.MljB6PGycq.webp" alt="" data-pagespeed-url-hash="1942426872" onload="pagespeed.CriticalImages.checkImageForCriticality(this);">
+<div class="icon">
+<i class="icon_heart_alt"></i>
+</div>
+<ul>
+<li class="w-icon active"><a href="https://preview.colorlib.com/theme/fashi/index.html#"><i class="icon_bag_alt"></i></a></li>
+<li class="quick-view"><a href="https://preview.colorlib.com/theme/fashi/index.html#">+ Quick View</a></li>
+<li class="w-icon"><a href="https://preview.colorlib.com/theme/fashi/index.html#"><i class="fa fa-random"></i></a></li>
+</ul>
+</div>
+<div class="pi-text">
+<div class="catagory-name">Shoes</div>
+<a href="https://preview.colorlib.com/theme/fashi/index.html#">
+<h5>Guangzhou sweater</h5>
+</a>
+<div class="product-price">
+$13.00
+</div>
+</div>
+</div></div><div class="owl-item active" style="width: 244.219px; margin-right: 25px;"><div class="product-item">
+<div class="pi-pic">
+<img src="./Fashi _ Template_files/xman-3.jpg.pagespeed.ic.CK7sqeQEq-.webp" alt="" data-pagespeed-url-hash="2236926793" onload="pagespeed.CriticalImages.checkImageForCriticality(this);">
+<div class="icon">
+<i class="icon_heart_alt"></i>
+</div>
+<ul>
+<li class="w-icon active"><a href="https://preview.colorlib.com/theme/fashi/index.html#"><i class="icon_bag_alt"></i></a></li>
+<li class="quick-view"><a href="https://preview.colorlib.com/theme/fashi/index.html#">+ Quick View</a></li>
+<li class="w-icon"><a href="https://preview.colorlib.com/theme/fashi/index.html#"><i class="fa fa-random"></i></a></li>
+</ul>
+</div>
+<div class="pi-text">
+<div class="catagory-name">Towel</div>
+<a href="https://preview.colorlib.com/theme/fashi/index.html#">
+<h5>Pure Pineapple</h5>
+</a>
+<div class="product-price">
+$34.00
+</div>
+</div>
+</div></div><div class="owl-item" style="width: 244.219px; margin-right: 25px;"><div class="product-item">
+<div class="pi-pic">
+<img src="./Fashi _ Template_files/xman-4.jpg.pagespeed.ic.bY7ZLLeiAg.webp" alt="" data-pagespeed-url-hash="2531426714" onload="pagespeed.CriticalImages.checkImageForCriticality(this);">
+<div class="icon">
+<i class="icon_heart_alt"></i>
+</div>
+<ul>
+<li class="w-icon active"><a href="https://preview.colorlib.com/theme/fashi/index.html#"><i class="icon_bag_alt"></i></a></li>
+<li class="quick-view"><a href="https://preview.colorlib.com/theme/fashi/index.html#">+ Quick View</a></li>
+<li class="w-icon"><a href="https://preview.colorlib.com/theme/fashi/index.html#"><i class="fa fa-random"></i></a></li>
+</ul>
+</div>
+<div class="pi-text">
+<div class="catagory-name">Towel</div>
+<a href="https://preview.colorlib.com/theme/fashi/index.html#">
+<h5>Converse Shoes</h5>
+</a>
+<div class="product-price">
+$34.00
+</div>
+</div>
+</div></div><div class="owl-item cloned" style="width: 244.219px; margin-right: 25px;"><div class="product-item">
+<div class="pi-pic">
+<img src="./Fashi _ Template_files/xman-1.jpg.pagespeed.ic.DPWA1LC_uk.webp" alt="" data-pagespeed-url-hash="1647926951" onload="pagespeed.CriticalImages.checkImageForCriticality(this);">
+<div class="sale">Sale</div>
+<div class="icon">
+<i class="icon_heart_alt"></i>
+</div>
+<ul>
+<li class="w-icon active"><a href="https://preview.colorlib.com/theme/fashi/index.html#"><i class="icon_bag_alt"></i></a></li>
+<li class="quick-view"><a href="https://preview.colorlib.com/theme/fashi/index.html#">+ Quick View</a></li>
+<li class="w-icon"><a href="https://preview.colorlib.com/theme/fashi/index.html#"><i class="fa fa-random"></i></a></li>
+</ul>
+</div>
+<div class="pi-text">
+<div class="catagory-name">Coat</div>
+<a href="https://preview.colorlib.com/theme/fashi/index.html#">
+<h5>Pure Pineapple</h5>
+</a>
+<div class="product-price">
+$14.00
+<span>$35.00</span>
+</div>
+</div>
+</div></div><div class="owl-item cloned" style="width: 244.219px; margin-right: 25px;"><div class="product-item">
+<div class="pi-pic">
+<img src="./Fashi _ Template_files/xman-2.jpg.pagespeed.ic.MljB6PGycq.webp" alt="" data-pagespeed-url-hash="1942426872" onload="pagespeed.CriticalImages.checkImageForCriticality(this);">
+<div class="icon">
+<i class="icon_heart_alt"></i>
+</div>
+<ul>
+<li class="w-icon active"><a href="https://preview.colorlib.com/theme/fashi/index.html#"><i class="icon_bag_alt"></i></a></li>
+<li class="quick-view"><a href="https://preview.colorlib.com/theme/fashi/index.html#">+ Quick View</a></li>
+<li class="w-icon"><a href="https://preview.colorlib.com/theme/fashi/index.html#"><i class="fa fa-random"></i></a></li>
+</ul>
+</div>
+<div class="pi-text">
+<div class="catagory-name">Shoes</div>
+<a href="https://preview.colorlib.com/theme/fashi/index.html#">
+<h5>Guangzhou sweater</h5>
+</a>
+<div class="product-price">
+$13.00
+</div>
+</div>
+</div></div><div class="owl-item cloned" style="width: 244.219px; margin-right: 25px;"><div class="product-item">
+<div class="pi-pic">
+<img src="./Fashi _ Template_files/xman-3.jpg.pagespeed.ic.CK7sqeQEq-.webp" alt="" data-pagespeed-url-hash="2236926793" onload="pagespeed.CriticalImages.checkImageForCriticality(this);">
+<div class="icon">
+<i class="icon_heart_alt"></i>
+</div>
+<ul>
+<li class="w-icon active"><a href="https://preview.colorlib.com/theme/fashi/index.html#"><i class="icon_bag_alt"></i></a></li>
+<li class="quick-view"><a href="https://preview.colorlib.com/theme/fashi/index.html#">+ Quick View</a></li>
+<li class="w-icon"><a href="https://preview.colorlib.com/theme/fashi/index.html#"><i class="fa fa-random"></i></a></li>
+</ul>
+</div>
+<div class="pi-text">
+<div class="catagory-name">Towel</div>
+<a href="https://preview.colorlib.com/theme/fashi/index.html#">
+<h5>Pure Pineapple</h5>
+</a>
+<div class="product-price">
+$34.00
+</div>
+</div>
+</div></div></div></div><div class="owl-nav"><button type="button" role="presentation" class="owl-prev"><i class="ti-angle-left"></i></button><button type="button" role="presentation" class="owl-next"><i class="ti-angle-right"></i></button></div><div class="owl-dots"><button role="button" class="owl-dot active"><span></span></button><button role="button" class="owl-dot"><span></span></button></div></div>
+</div>
+<div class="col-lg-3 offset-lg-1">
+<div class="product-large set-bg m-large" data-setbg="img/products/man-large.jpg" style="background-image: url(&quot;img/products/man-large.jpg&quot;);">
+<h2>Men’s</h2>
+<a href="https://preview.colorlib.com/theme/fashi/index.html#">Discover More</a>
+</div>
+</div>
+</div>
+</div>
+</section>
+
+
+<div class="instagram-photo">
+<div class="insta-item set-bg" data-setbg="img/insta-1.jpg" style="background-image: url(&quot;img/insta-1.jpg&quot;);">
+<div class="inside-text">
+<i class="ti-instagram"></i>
+<h5><a href="https://preview.colorlib.com/theme/fashi/index.html#">colorlib_Collection</a></h5>
+</div>
+</div>
+<div class="insta-item set-bg" data-setbg="img/insta-2.jpg" style="background-image: url(&quot;img/insta-2.jpg&quot;);">
+<div class="inside-text">
+<i class="ti-instagram"></i>
+<h5><a href="https://preview.colorlib.com/theme/fashi/index.html#">colorlib_Collection</a></h5>
+</div>
+</div>
+<div class="insta-item set-bg" data-setbg="img/insta-3.jpg" style="background-image: url(&quot;img/insta-3.jpg&quot;);">
+<div class="inside-text">
+<i class="ti-instagram"></i>
+<h5><a href="https://preview.colorlib.com/theme/fashi/index.html#">colorlib_Collection</a></h5>
+</div>
+</div>
+<div class="insta-item set-bg" data-setbg="img/insta-4.jpg" style="background-image: url(&quot;img/insta-4.jpg&quot;);">
+<div class="inside-text">
+<i class="ti-instagram"></i>
+<h5><a href="https://preview.colorlib.com/theme/fashi/index.html#">colorlib_Collection</a></h5>
+</div>
+</div>
+<div class="insta-item set-bg" data-setbg="img/insta-5.jpg" style="background-image: url(&quot;img/insta-5.jpg&quot;);">
+<div class="inside-text">
+<i class="ti-instagram"></i>
+<h5><a href="https://preview.colorlib.com/theme/fashi/index.html#">colorlib_Collection</a></h5>
+</div>
+</div>
+<div class="insta-item set-bg" data-setbg="img/insta-6.jpg" style="background-image: url(&quot;img/insta-6.jpg&quot;);">
+<div class="inside-text">
+<i class="ti-instagram"></i>
+<h5><a href="https://preview.colorlib.com/theme/fashi/index.html#">colorlib_Collection</a></h5>
+</div>
+</div>
+</div>
+
+
+<section class="latest-blog spad">
+<div class="container">
+<div class="row">
+<div class="col-lg-12">
+<div class="section-title">
+<h2>From The Blog</h2>
+</div>
+</div>
+</div>
+<div class="row">
+<div class="col-lg-4 col-md-6">
+<div class="single-latest-blog">
+<img src="./Fashi _ Template_files/xlatest-1.jpg.pagespeed.ic.NWH-yJ0uMS.webp" alt="" data-pagespeed-url-hash="2639207979" onload="pagespeed.CriticalImages.checkImageForCriticality(this);">
+<div class="latest-text">
+<div class="tag-list">
+<div class="tag-item">
+<i class="fa fa-calendar-o"></i>
+May 4,2019
+</div>
+<div class="tag-item">
+<i class="fa fa-comment-o"></i>
+5
+</div>
+</div>
+<a href="https://preview.colorlib.com/theme/fashi/index.html#">
+<h4>The Best Street Style From London Fashion Week</h4>
+</a>
+<p>Sed quia non numquam modi tempora indunt ut labore et dolore magnam aliquam quaerat </p>
+</div>
+</div>
+</div>
+<div class="col-lg-4 col-md-6">
+<div class="single-latest-blog">
+<img src="./Fashi _ Template_files/xlatest-2.jpg.pagespeed.ic.BHI3A1KcBK.webp" alt="" data-pagespeed-url-hash="2933707900" onload="pagespeed.CriticalImages.checkImageForCriticality(this);">
+<div class="latest-text">
+<div class="tag-list">
+<div class="tag-item">
+<i class="fa fa-calendar-o"></i>
+May 4,2019
+</div>
+<div class="tag-item">
+<i class="fa fa-comment-o"></i>
+5
+</div>
+</div>
+<a href="https://preview.colorlib.com/theme/fashi/index.html#">
+<h4>Vogue's Ultimate Guide To Autumn/Winter 2019 Shoes</h4>
+</a>
+<p>Sed quia non numquam modi tempora indunt ut labore et dolore magnam aliquam quaerat </p>
+</div>
+</div>
+</div>
+<div class="col-lg-4 col-md-6">
+<div class="single-latest-blog">
+<img src="./Fashi _ Template_files/xlatest-3.jpg.pagespeed.ic.oSrw_eGSen.webp" alt="" data-pagespeed-url-hash="3228207821" onload="pagespeed.CriticalImages.checkImageForCriticality(this);">
+<div class="latest-text">
+<div class="tag-list">
+<div class="tag-item">
+<i class="fa fa-calendar-o"></i>
+May 4,2019
+</div>
+<div class="tag-item">
+<i class="fa fa-comment-o"></i>
+5
+</div>
+</div>
+<a href="https://preview.colorlib.com/theme/fashi/index.html#">
+<h4>How To Brighten Your Wardrobe With A Dash Of Lime</h4>
+</a>
+<p>Sed quia non numquam modi tempora indunt ut labore et dolore magnam aliquam quaerat </p>
+</div>
+</div>
+</div>
+</div>
+<div class="benefit-items">
+<div class="row">
+<div class="col-lg-4">
+<div class="single-benefit">
+<div class="sb-icon">
+<img src="data:image/webp;base64,UklGRugBAABXRUJQVlA4TNwBAAAvLkAIEF+EoG3bmD+Vo/zaDcOcDw+Ctm2bepLuatu2YZwy02/gvQEZDKyBEAGAEIAIIggBggjBaDAMIBBBPkIlBBjAQQAwCLCBxoeaFSECuKoQB/6YP2KoYQEAEPjwyK+24QDAliTZtNXHNq5t27Zt27bt25999tk4eI/o/wRwBFcU6YPivQVo6xVpUy7kVy+UPUmQxPN5JTdYLm0ESqbLM7Mm/448S7vyn8ijZDon6oSzQiX4T1KINMcIJj/vakOjHMk5gZNsCRHnH4U/Y0PDx4mcwMKvDVWItEGwlbWhpd178oQUkn8WQgu9LA6JiZyg+a93duVc/xQ9oRwyS8Su/4aA+BFGC3fX8lK7U6aM8bXZUnWQwDZkPvHsko+p6KHEcqCfn/tPXDPgmSSPxsbGcl1Pl2lA9v2dpXBM9CLLUc15O3TtHMHg2BE5AgAdTAGAfDZCfDrLcXqoAYDpHwcwQr5cXFxcvF0DK3NQvbxciL/hwwW7EXdRgSLeXFy8cGgt8PYeGB+A7uN6TTr74F/LRxm319bWhiDYxCIAqGElpO9cGQCoNt+NEGm6fq4yWxs+jvUy5P1vJcI7xQ6Ijj/j3z8P/JCz/pvf/B/WiIO+YmigRAt5fS2jnckQBg==" alt="" data-pagespeed-url-hash="157847617" onload="pagespeed.CriticalImages.checkImageForCriticality(this);">
+</div>
+<div class="sb-text">
+<h6>Free Shipping</h6>
+<p>For all order over 99$</p>
+</div>
+</div>
+</div>
+<div class="col-lg-4">
+<div class="single-benefit">
+<div class="sb-icon">
+<img src="data:image/webp;base64,UklGRjgCAABXRUJQVlA4TCsCAAAvJUAJEKdjkG2k+qs85d09xJwPj8O2jRw5drQufSCatqFqLnsDxw0QBgjDAAHgA4AQIMBwAUIY4ALAPQ4ABoAwPLDw4sQfHuUtfAFhuMfAFwMI9Itw4nyG8Of48FLyb9TxEGDZtm062rFtp2wrKNu2raC0+/+Td+/NqxZE9H8CIJ+b2n35I/9edqdyaLaz+MH61kR/e3v/xFadH0VnU8aqlZUUJFPLldqYWuiWJTcU3SXehhQ6eRaEcGRECwiesVNqiPOQvLkRAfMckuhlAbJ+vwym2CsIcAE6LjCo9XQJoGXUpGYabQFw+awxRg+AHkYFPT2CKHsAeDgJwM4ZNPqsgvt7gdWHxhnagekfi4bk+blAaPmZhqG6CtWTExWsVY1ZxvWLM1uuQT9USzvbakdHalv7jwWlABlUKrz+9at43q+u3oIqfX9sAwavYg1D11eXx19PwN+KROxqEGhjQ9dhuKF7d2N94+HNZuO8RPiwC+jkXz8Ujde/vxduCc2B38eCCuzFkgOqhZedbaWmbh2Ua/+hWs4wrl+cWUNlTb/VigHlH7Ne5p8yYOOsRtqt5k5rzNIGYIxeAMOMqEU4DMDDSTQ+XwJItKCJLQkAFy/QDHAROi4yqIVeFqRSKakCeyEe4pzM05PMHAch283ToKi1VRQ4ZTfkw3csurTEriLvwlAeq1WWkjLJpUptDM10lj5Z3xzv6+gcHNus87PkRLPzU3uv3+T3695UHvIA" alt="" data-pagespeed-url-hash="452347538" onload="pagespeed.CriticalImages.checkImageForCriticality(this);">
+</div>
+<div class="sb-text">
+<h6>Delivery On Time</h6>
+<p>If good have prolems</p>
+</div>
+</div>
+</div>
+<div class="col-lg-4">
+<div class="single-benefit">
+<div class="sb-icon">
+<img src="data:image/webp;base64,UklGRugBAABXRUJQVlA4TNwBAAAvLkAIEF+EoG3bmD+Vo/zaDcOcDw+Ctm2bepLuatu2YZwy02/gvQEZDKyBEAGAEIAIIggBggjBaDAMIBBBPkIlBBjAQQAwCLCBxoeaFSECuKoQB/6YP2KoYQEAEPjwyK+24QDAliTZtNXHNq5t27Zt27bt25999tk4eI/o/wRwBFcU6YPivQVo6xVpUy7kVy+UPUmQxPN5JTdYLm0ESqbLM7Mm/448S7vyn8ijZDon6oSzQiX4T1KINMcIJj/vakOjHMk5gZNsCRHnH4U/Y0PDx4mcwMKvDVWItEGwlbWhpd178oQUkn8WQgu9LA6JiZyg+a93duVc/xQ9oRwyS8Su/4aA+BFGC3fX8lK7U6aM8bXZUnWQwDZkPvHsko+p6KHEcqCfn/tPXDPgmSSPxsbGcl1Pl2lA9v2dpXBM9CLLUc15O3TtHMHg2BE5AgAdTAGAfDZCfDrLcXqoAYDpHwcwQr5cXFxcvF0DK3NQvbxciL/hwwW7EXdRgSLeXFy8cGgt8PYeGB+A7uN6TTr74F/LRxm319bWhiDYxCIAqGElpO9cGQCoNt+NEGm6fq4yWxs+jvUy5P1vJcI7xQ6Ijj/j3z8P/JCz/pvf/B/WiIO+YmigRAt5fS2jnckQBg==" alt="" data-pagespeed-url-hash="157847617" onload="pagespeed.CriticalImages.checkImageForCriticality(this);">
+</div>
+<div class="sb-text">
+<h6>Secure Payment</h6>
+<p>100% secure payment</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</section>
+
+
+<div class="partner-logo">
+<div class="container">
+<div class="logo-carousel owl-carousel owl-loaded">
+
+
+
+
+
+<div class="owl-stage-outer"><div class="owl-stage" style="transform: translate3d(0px, 0px, 0px); transition: all 0s ease 0s; width: 1170px;"><div class="owl-item active" style="width: 204px; margin-right: 30px;"><div class="logo-item">
+<div class="tablecell-inner">
+<img src="data:image/webp;base64,UklGRloEAABXRUJQVlA4TE0EAAAvnkAJEI+joG0bxvypDkb3IMz6rBNI2sK7J1YDAEDQEASHhgMgAByCYCDoCD4IVgQIvqC+bfvSNruJNe2kTi0zpsx/U9opnZU527qlrm9KPdf//7H8IMnxNp8j+j8BsvfdmP3330EzWf7yaEzdZ+3bMVnXTaW7GPkDkPx4/ezx9NxSE9i9W+genIdHsPdyzFF63506MH+uWyhFcDTdI2fi4bvv32afXShJF1egMdYdFL/Byogqj7awHnwcUukV7I93BR/hd1VXGwCb/34vHQLHsxXdOiYZ6AJuw3xZV4Hl2+clqTg1ewhrg7rZZKF0+r1mu08qzDY8R/Zz36ExoBl4ksMH/FMkBkLn7cVyPCanT1cWxyxynsJaT3GJg7P/CyH5ww6S9IndIZXnYHfUIs3AO03BdBfgwY9CeR62rjsZCr9ouvpLo3jqlTdJzjjfIO5V5uFj5nQDLvwfWA1g1Pn34LYewPeicn7msNLbZPrUW2GtcHaftYryXoZLWuLXaefCQ81ATbl74ZHm2GyBFwNRLUMtBGJfPuBLCgHJi4DIa0PV1IHE9KeFgORFQOSlrcO6HkN/scG8WrjPG71iP19IemQJSI9sBqhGpJuWedhNigGqEekmy1c2NAG3WrHDOwWQax17kBJgX88UY3dbZMga2GLsboYVvug+DLSg2OSVXrGbC4xUDQFqkmoAYVUynLSR+JJbB4LW9AMEkgyAZyHxJbcOBBl2eaVXNIstGID7+sJqvppOGiCSFAGBTno2/4QrSS5Qb00IGJ30gLok/4QrSS5QzwCB3rGjFt6CCa3zLVes1GoCiaQEkmqK4kyhUhNIWpNAovQ6UE0LlZpAkmGf13rDfivmaRT74XEuk6YIcOUCsdJNJpO2DrTEBSJLAHhpJm0dyLDFnB5Bb74peKGHMJbLt4RATTUgtPiZ/DbVgNDiA36a35JfLOkSXM5VWeXgbGGNVee0m6bZWzkkylP8Bg/kwz3lMpYY6JcLRBbTQS4QWQzgteMC3NAcx4PZen7Cd6dvh81yvjitmkAiVYHEEneQEkgsMVBtR3GHeblNfjoZnGtbMF8u/ABP+ailBEAoKQZMikcnhYBJqQF1tUMzMKX38CzD6C5EZQ3t8UmtSIxUDQFqkmoAgSRDR/UDBJIMgNeeswcsFnvW4Ilj0fiSpz5H438qF984udaxBzoZYV/vJBmyBmqPnsCMBhvw/ZxFcrzGbEHq2+Z1Lj+yBEqPLJHfUfIzGLWrtEDzhgbX4HB2snjinL8IXFV5Hm7mkx8DYU12LwJiXx2mqqkDielX2zSQcHxTlfdN4GDp998NgMZV9fyCD+oGx/fhZUnu50Os248rGl6B78WuQGMNWL4oVa8Ecz9/vH844ajy/Ag+l9Qlnv8L1P1epTvuiwSOHznqGgv3doHm4qfpR09f/dgB+DOirrLHrJP1+HtNXacz/ujrStI8bPybvdGnbhEA" alt="" data-pagespeed-url-hash="1295928952" onload="pagespeed.CriticalImages.checkImageForCriticality(this);">
+</div>
+</div></div><div class="owl-item active" style="width: 204px; margin-right: 30px;"><div class="logo-item">
+<div class="tablecell-inner">
+<img src="data:image/webp;base64,UklGRuIDAABXRUJQVlA4TNYDAAAvhoAIEI+ioG0bxvypDkX3MMz6rBNI2sL7CU0TTLbdgdXgCwd8DscRDoDGgFqzDGgIaGgDiGIIqImbCl8A2ZJtq04140E3Es/F5eB+gAh2sHiY//85e+2VfW4FeYzoPwQBaOM2ou0uz8FIsngD4uGQ7zmc8zmFkO0EmrzDt4QZcgOrY1ZR5lcBaxwu4Vvilu1EosVbJJ94icwrj/AtUbXSr3NosMfuHA75lsV3ROqZl8i+8RBzXe7ZyljHt8S+lf6Irxlc8imJW7YS+I6Y73EPS0OuofDFMqocr8bkOROEJNkJtjFduLLS37GFRJuhrYzzmDSPqKAzVd8UrfQ1K/0GB4vY5+dsLJYmoopp6uTEA0OkX3iO3DsPbGXsxFsm3oEBUDkiWcDUYMtKH1jpTxilccXHZCyWIcnIuBlpNDA1yH/wAAt97mB5xDqKX1+lWCwrJDtG4zFFX0+t9NdW+nve28q4VigFJC9cEg2x3wXJwIv9muiX0OkUI9hVQpIOh5mAZCQYH4d7SJyHm0hfhf+Quw6rAFbGrKNkpa9ztIwt9hegoEN2ZtwTCSk6nmU406CDB0nKkgxECwsOR5WOpBUVoJ7vgB95uS+avEfykddIRzxB/mOCxoGmuWgD8a8d73YhKSrFiQd5XsGh0dFpOdkWRz2VD8n3RsvYkZK853DKlzQ0GJIPACD2bci/NCaHqJCHClBouDzFcUMDFBwOjQKwFpEModZ+neMV+cj9E8x+MsDigBu2Mmoe/SjSu0ZyDdj2C0MykjXzIOnBOahApHA1HZIG6k1wz6ZNyA1SOZxb6T1NllD9yFkdYUJ4lsyawzMiWVCjMoGhci/ahKw5l8Kqld7fZEWiBp0203/wSxUwI35U6CrhUKjIllenxAlfMzIhZ7zzNVmubttypxnAd0lDpFg5a+TsJGMCB+Oop8xMm5BDm5BdmO5SHJM1I1sici8usdEUhOogNjg00uCsxDNZFyTNmlJW4tr0/8F5qk+4iSsoHaP4qUSbt9LuwdtkKYyDkHzQh4jnEr2VRMRYAqiCF75YleZ3MYbJch4kt1C+RMrrIlQ2UupizSsaSmU5+VLL75LPKal9M5bJ2iZJdrwMRiEQD/G7NieEe4VWHtT+VprRJmRfJmQlnsnqcEIdmgfqOPIZIl6/VoaI0lfq1bTH3rzsy3gmS4xGE9N8Gn2kekVUcF6dikJfuahtQq5sQo6BixgmS5RcGMOKexkMv41mAkF0RmWvjC2bkKJMyNZXCdMITQovqEM85INMSGIf3zAUS2MTsuXM8+8YPsbrJf0N4n/hrx4A" alt="" data-pagespeed-url-hash="1590428873" onload="pagespeed.CriticalImages.checkImageForCriticality(this);">
+</div>
+</div></div><div class="owl-item active" style="width: 204px; margin-right: 30px;"><div class="logo-item">
+<div class="tablecell-inner">
+<img src="data:image/webp;base64,UklGRvoCAABXRUJQVlA4TO0CAAAvmkAHEO9hkG2k+qsexd0/xKzPOoK2bZu6s+3rgJcBIMAAFhAWIQDARxgswiIMAkAXAoRD+Agf0AEsQD83eFkAdW3bpDTSiwu2JENLWoZeyukxEidMY7ayu8jynP+BURaIib8j+j8BOjxZPeSRvFH+uJrofIzyPVDPWrMa2OfRubCo8V62LvHWi7NgfvMG3O9D9o/A2838w5v8fAGab6NfIb/GPxrg5Z/JICzYVgWU70qU74HXzUwKk2abV2CfRz0UwPJDqAFuL6Ru0sUtQN1DBVRHygzvAnB/JW836eoB6JbRzo5i4Z1ovo3Un8Y/mh62nrKPwHdjM5vrGJrPNp0SwALJBzC9/nOcP/9OO5VA6mD9AfymOU7D7y6xg61KcHE3C1ayBCYyQOZJgEpSAhilJVBlkpYVUKaHYmOB7bLF8ehigEwpYE5EwLrAX2iLP/UtOVidhIOdpArsCe046EoOWo8hcHsCBVBIKoCiJ0kWkLcXB2Ck1NIupMwBqaQEcIUUl0A2PAsuliQHuxOxwFqSilYhSWvASCqBVO0StoPLgLXaBshOJ24lgFN7ecDBVt4luMFVQOJJgOpknA7tPBmwllI6xgNLgUr+EkhOxQZUAaWUdUkGVtK1fIeMQoeV0D0eUDqEFNge4XOn8XOY6cEMovCYIciB6/A8Dmm+jqTPAV+eCIoduFiBFlzczw5IPUugbMV2EFvAHCikGh6vfNdvcHc5+t7wdt26uAWoAwxgFGqAop81UMWtGKCQ0h2DSAHKRJKxZIryPdxetLT47+/o6h7qhaTZ5hXY51GABZKgGLD9JPgllRx0g5AhtJQ0Wb3wupmpfXEL+zyaavyjAZ5XEwUWQKnwElj2IhOQWJ9bDkPLAFuoPb95o/kx1mzzysvPyV//N+sn4O3mk4J3QNYhBXb9KNsCVm3jABMnA1Fsqta60OFFDU/rhrebub684q0XOhOjfA/UC0la1MA+j3Q+Tlb3eSRvlN+vJjoDAQA=" alt="" data-pagespeed-url-hash="1884928794" onload="pagespeed.CriticalImages.checkImageForCriticality(this);">
+</div>
+</div></div><div class="owl-item active" style="width: 204px; margin-right: 30px;"><div class="logo-item">
+<div class="tablecell-inner">
+<img src="data:image/webp;base64,UklGRuYDAABXRUJQVlA4TNoDAAAvkUAJEIejoG0bxvypFsYuhFmfdQNp2+Kne+IyOBGGoBA8EAAg+CAEHUFDeDgxmKC1bXvbtnlJeTEdNjPoLGbHo42ykb0TpcPKphvFWYIXa1UWn/9/SgKi6sjHEf2fAFXH5v23Xu/bBzOnfeLsSoFz0Pp1X7DUAxhsbfQBdpb2AdcL+O/Z8VBqHH3W+/7XvWjsLRbwdlbOUPvA2R48D+Seu7wkTX78vHL90Pj6G94Gqg6XP8LgtLQMsHapMZ7mCnq/qDpZo7wxpXCDcvf0WDLwRJXB/QFg75+YkTR9/O43gKeNvWDB7qkPMF/ReAV0FwJJ083f56Xg7BrwfnL8bNIPS8ErKJ5MqNzYZUOSwnsFZI0fVWqoa5d1le/BYFnOTfol6VwfXvygLIzqyIBiWe5tl84N4My42aIfSsEneCJ3WLDp0C2wE2Mmg6PSefg+4TEP711hB66MGQNPpVVYlOdTMC6l8M2riXdLEpBVtYDULwF4WGEsYGJZsJLFMy6lLSBrqgk044Je41fYCDx+6VHMeWgN5vdInAMPJSmxVOZpTQ+pbldohe+6BI/kDl7Dinxvwu29EVmgJUlxjjPPa3mI21bEvRX9VnDaFTyD3qzXEXjn424CNhpJ1AEylTPALkhJBhWSLKDKFKAVSYZyU1p6JJ3b/Mnx82soFuXd2KVbQwLkiUaSAZ2olAB5rHKnljbwUOUFhw5ImtJkKAXJ4x0ormnILXaGi3NgQSNpATZS2QBGlWktOeRRhTKHNCGp2be2D9A7r2G7MFTUAYxGYoA8VmUbSKtURwJkqjYeqwuhFqksXs5q6E12hmoDLY2kMlF1BsQOW0MKtBxNj4+szxzZptjObsUavjFgfZiHQEf/g9ae+hNOqv4j8H6IJmCjOto+tglgqtpA4qCGBGg7jMdVeDCCG3DXLwHyRF62KveSATAVDwFTldYRAbkj8zgINqjvExzzinNgQZ4dIC4Z/GQAmqUUsFFFx6MDJCVlgKlYwEMduFDbcegGPlEHMPJ9CGSxZBhGLYBUkjKgk0pJhsdDIItKKcBDSQavZfjaqCn4B67J1+AvKcadD6MWQCIpwZ3nrphqSW3c1if8CvdrugGbk6ORcbRaQykD8lhSmlflqXXJeKjtaDd9dKKgOF/LyV24qBEpbQPZgmpQB7CppMjkgInlo7QN2JIW2kDWlJ8ewe75GtIevNS4Dt/A4E44RHB9F1Ynx5Ym3wJrp7xOfwZWZzTGw6cF8OXWfENS4/CNTwB/TGi8n1mnPNi0WwPKmxc19icuf8O3e21S+8Ijt992/2XHvr97LNCYBg==" alt="" data-pagespeed-url-hash="2179428715" onload="pagespeed.CriticalImages.checkImageForCriticality(this);">
+</div>
+</div></div><div class="owl-item active" style="width: 204px; margin-right: 30px;"><div class="logo-item">
+<div class="tablecell-inner">
+<img src="data:image/webp;base64,UklGRkQDAABXRUJQVlA4TDgDAAAviMAKEF9DkG1Tf9WLPCOY9VlX0LYNC9e/xG0AAADACNCAQIjhgQPSrW1SpKZ2dndwdyYe3N3dbXE2wxowRDbU/d8A+1VNN6TzO6L/ENw2ciSpTpfvWj1p/0AGUzVK/4mpvl8TBZ9cN8eCz2VyempyLPhSZrfNs+BrmZ2mNs+Cb2V2mtoCC76X2WnqUF4S/iFXp76I/kj3/QU/um5W+Nt579L96AdydBpK6G16AA1sO4NKXK1JT5aZ9+ltJsecszI1iPaSozQ+SIfQHnIGU29Sw+CvbnKUpkf0Ojkife95N5qFV8mRF2bmn13kDoZeJkcV3aRFeCHt9NpF0rhs83N4ISr/c43GmHlMlMxlK8Fzfeq2aish5M9FzNGcT2RTSNTGsJMn9Dw5Bj53eodrWDvxooXDfnD24WBoBBGLCWu1bTHzmizK1ZJVYW2Er+/SPrTDO2Jk8oUV/Ig5EgnMnCGNPtYmiCEU+4VOi0I/J+5vIa2B7d4xI1MvjCiHv085KYECHsdsG5E/xyFpwM8ytdjJvkWhH1ZqSJDxCHhu804YmWbWaVOOZ8iQL9lXgsgPVHJKTwaOnXlhlplDX3DmERC1eaeMzHAMGOqL3x5TieKepzHUxlzXZoVwVHI+IaceAVGrdwb7nhE+qbljYhuvxZGvAGcoJFOimGLDwjl+zasl5MQj4KnVy8C+j7xZWOCxRe+N8FKK4NJVCODKMiUXg1khTJvoOEZppiV5DkGH3hzarOQqNwfspvZfY190eHIBaWIebaKYqYXWEHZh8MUbYFxYaeI5ihnhQWIBFnhojMnCuy4KxKIKPsOvvAHmhXMGb8kLPD+JRWPhnCrbUv4sE/OPLLAohLcx1UvY915iOd74i2kuBnyBysgHqQUWhfBPOVC8gs3tJlZggVKDkXjQIj8GUaPceBbYFO6r/zx5DVU7iVUrYQnepxigQE7WDotCyioPsdQNVG0Li/WG4jFrM4D8uZCZo7mAyAKrQqJKTO61JXUrXJO6OsKtxDosUKgjVyeNbtIGWkvOzh3se4PGYYG8wxLse51oDawhx1kjJFdDjrNKSK6aHGeFAOelV5F716VlscBIFTk+BA==" alt="" data-pagespeed-url-hash="2473928636" onload="pagespeed.CriticalImages.checkImageForCriticality(this);">
+</div>
+</div></div></div></div><div class="owl-nav disabled"><button type="button" role="presentation" class="owl-prev"><i class="ti-angle-left"></i></button><button type="button" role="presentation" class="owl-next"><i class="ti-angle-right"></i></button></div><div class="owl-dots disabled"></div></div>
+</div>
+</div>
+
+
+<footer class="footer-section">
+<div class="container">
+<div class="row">
+<div class="col-lg-3">
+<div class="footer-left">
+<div class="footer-logo">
+<a href="https://preview.colorlib.com/theme/fashi/index.html#"><img src="data:image/webp;base64,UklGRh4BAABXRUJQVlA4TBEBAAAvWIAFEJdAmG1Uf5Y53vMUBAJJ/qRbLBBIEtsfa4IAkpxi2N/kEU6wP3aqIhCS3EhyJMm9ZHiJLPH/30ZklJqZ3WNE/ycA32xJskeevkVWvDj+zyp4+S03/jZTT9JW0CvQSJKDcstAsp+DliT7p7aesRJry7oljLHe0/GigNIwu1Sy6xNJAOINI7MdbrC3NIFtsETrDJjVcEp0M6age8lKLwDQhRV+2hIFwOD4EgWb22qjI00rwqAHAD1WkAwahLXSBF4/DDarsfsYN7clABQpoB469vi8YQ7kVFuFcHHDZ7bG0QBjTaSpAOb6z0BBVkDLtH1na68tzJfvoHQVVbYx0yz4EKCO5LigAmyyoBf8OwAA" alt="" data-pagespeed-url-hash="1410387023" onload="pagespeed.CriticalImages.checkImageForCriticality(this);"></a>
+</div>
+<ul>
+<li>Address: 60-49 Road 11378 New York</li>
+<li>Phone: +65 11.188.888</li>
+<li>Email: hello.colorlib@gmail.com</li>
+</ul>
+<div class="footer-social">
+<a href="https://preview.colorlib.com/theme/fashi/index.html#"><i class="fa fa-facebook"></i></a>
+<a href="https://preview.colorlib.com/theme/fashi/index.html#"><i class="fa fa-instagram"></i></a>
+<a href="https://preview.colorlib.com/theme/fashi/index.html#"><i class="fa fa-twitter"></i></a>
+<a href="https://preview.colorlib.com/theme/fashi/index.html#"><i class="fa fa-pinterest"></i></a>
+</div>
+</div>
+</div>
+<div class="col-lg-2 offset-lg-1">
+<div class="footer-widget">
+<h5>Information</h5>
+<ul>
+<li><a href="https://preview.colorlib.com/theme/fashi/index.html#">About Us</a></li>
+<li><a href="https://preview.colorlib.com/theme/fashi/index.html#">Checkout</a></li>
+<li><a href="https://preview.colorlib.com/theme/fashi/index.html#">Contact</a></li>
+<li><a href="https://preview.colorlib.com/theme/fashi/index.html#">Serivius</a></li>
+</ul>
+</div>
+</div>
+<div class="col-lg-2">
+<div class="footer-widget">
+<h5>My Account</h5>
+<ul>
+<li><a href="https://preview.colorlib.com/theme/fashi/index.html#">My Account</a></li>
+<li><a href="https://preview.colorlib.com/theme/fashi/index.html#">Contact</a></li>
+<li><a href="https://preview.colorlib.com/theme/fashi/index.html#">Shopping Cart</a></li>
+<li><a href="https://preview.colorlib.com/theme/fashi/index.html#">Shop</a></li>
+</ul>
+</div>
+</div>
+<div class="col-lg-4">
+<div class="newslatter-item">
+<h5>Join Our Newsletter Now</h5>
+<p>Get E-mail updates about our latest shop and special offers.</p>
+<form action="https://preview.colorlib.com/theme/fashi/index.html#" class="subscribe-form">
+<input type="text" placeholder="Enter Your Mail">
+<button type="button">Subscribe</button>
+</form>
+</div>
+</div>
+</div>
+</div>
+<div class="copyright-reserved">
+<div class="container">
+<div class="row">
+<div class="col-lg-12">
+<div class="copyright-text">
+
+Copyright ©<script>document.write(new Date().getFullYear());</script>2022 All rights reserved | This template is made with <i class="fa fa-heart-o" aria-hidden="true"></i> by <a href="https://colorlib.com/" target="_blank">Colorlib</a>
+
+</div>
+<div class="payment-pic">
+<img src="./Fashi _ Template_files/xpayment-method.png.pagespeed.ic.1uSL2uY2Co.webp" alt="" data-pagespeed-url-hash="2409389152" onload="pagespeed.CriticalImages.checkImageForCriticality(this);">
+</div>
+</div>
+</div>
+</div>
+</div>
+</footer>
+
+
+<script src="./Fashi _ Template_files/jquery-3.3.1.min.js.download"></script>
+<script src="./Fashi _ Template_files/bootstrap.min.js.download"></script>
+<script src="./Fashi _ Template_files/jquery-ui.min.js.download"></script>
+<script src="./Fashi _ Template_files/jquery.countdown.min.js+jquery.nice-select.min.js+jquery.zoom.min.js+jquery.dd.min.js+jquery.slicknav.js.pagespeed.jc.pQbQnv7jXZ.js.download"></script><script>eval(mod_pagespeed_s2yWe5UonU);</script>
+<script>eval(mod_pagespeed_5Oi900R5Mr);</script>
+<script>eval(mod_pagespeed_y24CbgPGh9);</script>
+<script>eval(mod_pagespeed_2WJFdZORSP);</script>
+<script>eval(mod_pagespeed_gwflC3jfEs);</script>
+<script src="./Fashi _ Template_files/owl.carousel.min.js.download"></script>
+<script src="./Fashi _ Template_files/main.js.download"></script>
+
+<script async="" src="./Fashi _ Template_files/js"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-23581568-13');
+</script>
+<script defer="" src="./Fashi _ Template_files/v652eace1692a40cfa3763df669d7439c1639079717194" integrity="sha512-Gi7xpJR8tSkrpF7aordPZQlW2DLtzUlZcumS8dMQjwDHEnw9I7ZLyiOj/6tZStRBGtGgN6ceN6cMH8z7etPGlw==" data-cf-beacon="{&quot;rayId&quot;:&quot;70ee2cb2cdfe992a&quot;,&quot;token&quot;:&quot;cd0b4b3a733644fc843ef0b185f98241&quot;,&quot;version&quot;:&quot;2021.12.0&quot;,&quot;si&quot;:100}" crossorigin="anonymous"></script>
+
+</body></html>
